@@ -64,7 +64,7 @@ public class Main extends Application {
 
 
     }
-    //dalları yap
+    //dalları yap jkasıufuıruvrlısjwedxnjcıeokbfcegfıcxeo9fpowqxdomeıluf30w8rsdfgrdfvcdaAZA<
     public TreeItem<String> makeBranch(String title,TreeItem<String> parent){
         TreeItem<String> item=new TreeItem<>(title);
         item.setExpanded(true);
